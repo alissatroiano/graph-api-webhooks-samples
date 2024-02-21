@@ -10,3 +10,10 @@ npm-debug.log
 # Docker
 Dockerfile
 docker-compose.yml
+
+# Env
+package-lock.json
+node_modules
+venv/
+.env
+
